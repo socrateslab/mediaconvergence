@@ -1,6 +1,6 @@
 # 媒体融合案例数据库
 
-![](face.png)
+![](database.jpeg)
 
 ## 简介
 
